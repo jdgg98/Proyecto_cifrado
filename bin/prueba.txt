@@ -1,0 +1,1 @@
+Archivo de texto pequeño para probar la funcionalidad de los algoritmos AES y RSA. Si es capaz de leer este archivo, es porque o abrió el archivo de prueba o se descifró correctamente.
